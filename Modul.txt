@@ -1,3 +1,0 @@
-OPR;Objektorientierte Programmierung;IN_BA,MI_BA,WI_BA
-EPR;Einfuehrung Programmierung;IN_BA,MI_BA,WI_BA
-EBW;Einfuehrung Betriebswirtschaft;WI_BA
