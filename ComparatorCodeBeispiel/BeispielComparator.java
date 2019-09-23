@@ -50,7 +50,7 @@ public class BeispielComparator {
     
     
     /*
-    * 2. Möglichkeit: Reailisierung direkt im TreeSet.
+    * 2. Möglichkeit: Reallisierung direkt im TreeSet.
     */
     TreeSet<Ereignis> ereignisse2 = new TreeSet<>((e1, e2) -> {
         
